@@ -5,8 +5,8 @@ from time import strftime
 # Just Begin Our code by creating a root
 root = Tk()
 
-# Creating a title as 'Clock'
-root.title("Digital Clock") 
+# Creating a title as 'Digital Clock'
+root.title('Digital Clock') 
 
 # Function Definition
 def timeCheck():
