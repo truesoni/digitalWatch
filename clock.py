@@ -15,7 +15,7 @@ def timeCheck():
     label.after(1000, timeCheck)
 
 # Labeling 
-label = Label(root,  font=("ds-digital",75), background = "black", foreground = "cyan")
+label = Label(root, font=("ds-digital",75), background = "black", foreground = "cyan")
 label.pack(anchor = "center")
 
 # Function call
